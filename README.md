@@ -2,7 +2,6 @@
 
 # MATH-MAGICIANS
 
-
 # Screen Shots
 
 ## Desktop Version
@@ -18,10 +17,9 @@
 
 ## Built With &hearts;
 
-- HTML
+- React
 - CSS
 - JavaScript
-- webpack
 - linter
 
 ## Live Demo
