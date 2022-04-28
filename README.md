@@ -2,6 +2,8 @@
 
 # MATH-MAGICIANS
 
+-This project is about making a simple calculator app using React. It can solve basic operations with 2 numbers.
+
 # Screen Shots
 
 ## Desktop Version
@@ -28,17 +30,19 @@ coming soon
 
 ## Getting started
 
+```
 to run the project locally, clone the project using the command
 
-`git clone https://github.com/Melaku05/`
+`git clone https://github.com/Melaku05/Math-Magicians.git`
 
-After cloning the repo, change dir to the project folder then run the following:
+cd Math-Magicians
 
 npm install
 npm run build
 if you got error just type " npm audit fix" in terminal/cmd
 npm start
 Hurray!!! You are now good to go.
+```
 
 ## Authors
 
