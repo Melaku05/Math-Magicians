@@ -1,30 +1,38 @@
 import React from 'react';
 import '../styles/Footer.css';
 
-const Footer = () => (
-  <div className="footer">
-    <p>
-      {' '}
-      {
+const Footer = () => ( <
+  div className = "footer" >
+  <
+  p > {
+    ' '
+  } {
     ' '
   }
-      Designed and coded by:
-      {' '}
-      {
+  Designed, and coded by: {
+    ' '
+  } {
+    ' '
+  } {
+    ' '
+  } <
+  a href = "https://github.com/Melaku05" > {
     ' '
   }
-      {' '}
-      <a href="https://github.com/Melaku05">
-        {' '}
-        @Melaku05
-        {' '}
-      </a>
-      {' '}
+  @Melaku05 {
+    ' '
+  } <
+  /a> {
+    ' '
+  }
 
-    </p>
-    {' '}
+  <
+  /p> {
+    ' '
+  }
 
-  </div>
+  <
+  /div>
 );
 
 export default Footer;
